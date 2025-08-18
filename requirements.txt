@@ -1,0 +1,14 @@
+streamlit
+torch
+torchaudio
+numpy
+pandas
+joblib
+scikit-learn
+xgboost
+speechbrain
+openpyxl
+ffmpeg-python
+gender-guesser
+whisperx @ git+https://github.com/m-bain/whisperx.git
+openai-whisper @ git+https://github.com/openai/whisper.git
